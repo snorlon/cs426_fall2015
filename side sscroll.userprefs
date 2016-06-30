@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Character Scripts\ControllerPrincess.cs" Line="92" Column="38" />
+      <File FileName="Assets\Scripts\Menu Scripts\MenuCharSelect.cs" Line="384" Column="42" />
+      <File FileName="Assets\Scripts\Character Scripts\ControllerHero.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\Character Scripts\AnimatorHero.cs" Line="6" Column="32" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="159" Column="1" />
+      <File FileName="Assets\Scripts\Character Scripts\ControllerSoldier.cs" Line="64" Column="39" />
+      <File FileName="Assets\Scripts\Character Scripts\AnimatorPrincess.cs" Line="39" Column="50" />
+      <File FileName="Assets\Scripts\Character Scripts\AnimatorSoldier.cs" Line="4" Column="29" />
+      <File FileName="Assets\Scripts\AI\AITrainerManager.cs" Line="547" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
